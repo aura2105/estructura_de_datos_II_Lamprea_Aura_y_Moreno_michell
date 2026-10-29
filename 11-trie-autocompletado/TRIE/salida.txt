@@ -1,0 +1,27 @@
+
+==================================
+   TRIE - AUTOCOMPLETADO EN JAVA
+==================================
+Palabras cargadas: 40
+
+--- PRUEBAS DE CINCO PREFIJOS ---
+ar -> [arbol, arboles, arco, archivo, arena]
+ca -> [camino, casa, casado, casamiento, cascada]
+com -> [comer, comida, compilar, complejo, completo]
+da -> [database, dato, datos]
+dis -> [diccionario, dinero, diseno]
+
+--- PRUEBAS DE BUSQUEDA ---
+¿Existe 'computadora'? true
+¿Existe 'computar'? false
+¿Existe prefijo 'comp'? true
+¿Existe prefijo 'xyz'? false
+
+========== MENU ==========
+1. Insertar palabra
+2. Buscar palabra
+3. Comprobar prefijo
+4. Obtener sugerencias
+5. Mostrar cantidad de palabras
+0. Salir
+Seleccione una opcion:
